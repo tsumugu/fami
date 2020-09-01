@@ -1,0 +1,42 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">Fami</string>
+    <string-array name="family_list">
+        <item>父</item>
+        <item>母</item>
+        <item>子</item>
+        <item>祖父</item>
+        <item>祖母</item>
+        <item>その他</item>
+    </string-array>
+    <string-array name="family_list_spi">
+        <item>その他</item>
+        <item>父</item>
+        <item>母</item>
+        <item>子</item>
+        <item>祖父</item>
+        <item>祖母</item>
+    </string-array>
+    <string-array name="voice_prog_date">
+        <item>今日 (1回限り)</item>
+        <item>毎日</item>
+        <item>平日、毎日</item>
+        <item>休日、毎日</item>
+        <item>月曜日に</item>
+        <item>火曜日に</item>
+        <item>水曜日に</item>
+        <item>木曜日に</item>
+        <item>金曜日に</item>
+        <item>土曜日に</item>
+        <item>日曜日に</item>
+    </string-array>
+    <string-array name="voice_prog_opt">
+        <item>---</item>
+        <item>雨が降る予報で</item>
+    </string-array>
+    <string-array name="voice_prog_freq">
+        <item>出かけるか、帰ってきた</item>
+        <item>出かける</item>
+        <item>帰ってきた</item>
+    </string-array>
+
+</resources>

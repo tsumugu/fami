@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0086C0</color>
+    <color name="colorPrimaryDark">#006e9e</color>
+    <color name="colorBg">#EEE9D4</color>
+    <color name="colorAccent">#EFA500</color>
+    <color name="colorSnackbarBG">#FF0000</color>
+    <color name="colorSnackbarBGUnavailable">#55FF0000</color>
+    <color name="colorSnackbarInfoBG">#4FBBFF</color>
+    <color name="colorSnackbarAttentionBG">#FFA500</color>
+    <color name="colorSnackbarText">#FFFFFF</color>
+    <color name="colorSnackbarTextClear">#75FFFFFF</color>
+    <color name="colorGray">#C8C8C8</color>
+    <color name="none">#00000000</color>
+</resources>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cellRelativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal">
+
+    <FrameLayout
+        android:id="@+id/face_grid_icon1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <xyz.tsumugu2626.app.fami.CircleImageView
+            android:id="@+id/cIV"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            app:srcCompat="@drawable/face" />
+
+        <FrameLayout
+            android:id="@+id/out_cover"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:visibility="gone">
+
+            <ImageView
+                android:id="@+id/gray"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                app:srcCompat="@drawable/bg_tp" />
+
+            <LinearLayout
+                android:id="@+id/text"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="外出中"
+                    android:textColor="@color/colorSnackbarText"
+                    android:textSize="18sp" />
+            </LinearLayout>
+        </FrameLayout>
+
+        <ImageView
+            android:id="@+id/border"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            app:srcCompat="@drawable/image_border" />
+
+    </FrameLayout>
+</RelativeLayout>

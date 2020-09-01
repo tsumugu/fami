@@ -1,0 +1,20 @@
+0:47 play-services-oss-licenses
+49:731 UTF
+782:2500 zlib
+3284:19442 ICU4C
+22728:11358 CCTZ
+34088:680 STL
+34770:1602 JSR 305
+36374:1732 Protobuf Nano
+38108:1481 darts_clone
+39591:243 tz database
+39836:1558 RE2
+41396:3182 PCRE
+44580:11358 safeparcel
+55940:46 lint-gradle
+55988:46 lint
+56036:46 lint-checks
+56084:46 lint-api
+56132:46 intellij-core
+56180:46 kotlin-compiler
+56228:46 uast

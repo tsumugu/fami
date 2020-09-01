@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "22596047127",
+    "firebase_url": "https://fami-notice.firebaseio.com",
+    "project_id": "fami-notice",
+    "storage_bucket": "fami-notice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22596047127:android:ae2b4c41ebab59fd",
+        "android_client_info": {
+          "package_name": "xyz.tsumugu2626.app.fami"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22596047127-iqbicrig4f1kso6nedk46lh71s3i7oub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyuD0gqcvjyW1BmOPLz_6w42g-3zbhojw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22596047127-iqbicrig4f1kso6nedk46lh71s3i7oub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
